@@ -1,0 +1,31 @@
+{
+    "tables": {
+        "smalldata89modeified": {
+            "columns": {
+                "body_temperature": {
+                    "sdtype": "numerical"
+                },
+                "respiratory_rate": {
+                    "sdtype": "numerical"
+                },
+                "walking_capacity": {
+                    "sdtype": "numerical"
+                },
+                "sleeping_duration": {
+                    "sdtype": "numerical"
+                },
+                "heart_rate": {
+                    "sdtype": "numerical"
+                },
+                "ruminating": {
+                    "sdtype": "numerical"
+                },
+                "health_status": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "MULTI_TABLE_V1"
+}
